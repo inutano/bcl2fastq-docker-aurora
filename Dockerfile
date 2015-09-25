@@ -1,6 +1,6 @@
 # dockerfile for bcl2fastq v1.8.4
 
-FROM python:2.7
+FROM centos:5
 
 # original dockerfile is from https://github.com/hunterchung/bcl2fastq-docker
 MAINTAINER Tazro Inutano Ohta, inutano@gmail.com
